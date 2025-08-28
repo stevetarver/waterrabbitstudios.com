@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "INSTALL"
             }
+          },
+          {
+            "id": "154f7558d5eff98d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa3d1ac1b73c4715",
+  "active": "154f7558d5eff98d",
   "lastOpenFiles": [
     "_site/INSTALL/index.html",
     "_site/INSTALL",

@@ -11,5 +11,7 @@ To configure a new local system:
    bundle install
    bundle exec jekyll serve
    ```
+4. Browse to https://localhost:4000/
+
 
 
